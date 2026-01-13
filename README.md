@@ -67,19 +67,6 @@ I'm a passionate **Front-End Developer** who thrives on creating seamless and pe
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esraaabuhalawa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esraaabuhalawa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=esraaabuhalawa&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
 
 ## 🎯 What I'm Up To
 
