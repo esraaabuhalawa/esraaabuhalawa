@@ -1,60 +1,115 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Esraa Abuhalawa
+<div align="center">
 
-## Front-End Developer | Vue, Nuxt, Angular
+# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Esraa Abuhalawa
 
-I am a **Front-End Developer** collaborating closely with **Backend Developers, Testers, and UI/UX Designers** to create seamless and performant web applications.  
+### Front-End Developer | Vue • Nuxt • Angular
 
-Experienced in **HTML, CSS, Sass, JavaScript, TypeScript, Angular, Vue, Nuxt, Tailwind, Bootstrap, and SEO optimization**.  
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdoYmRxczY4eDBqc3I1bXE0am1wamZwb285dmY4MTgxang2MTc1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" alt="Coding Animation">
 
-- 🌍 Based in Egypt  
-- ✉️ Contact: [esr.saad123@gmail.com](mailto:esr.saad123@gmail.com)  
-- 🧠 Currently exploring **Nuxt.js** and advanced front-end workflows  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraa-abuhalawa-115762208)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esraaabuhalawa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esr.saad123@gmail.com)
 
----
-
-## 👩‍💻 About Me
-
-<p align="left">
-<table>
-<tr>
-<td width="65%" valign="top">
-
-- 💻 I work as a **Front-End Developer** and collaborate closely with **Backend Developers, Testers, and UI/UX Designers** for seamless product integration  
-- 🌐 Experienced in **HTML, CSS, Sass, JavaScript, TypeScript, Angular, Vue, Nuxt, Tailwind, Bootstrap, and SEO optimization**  
-- 🚀 Always exploring modern front-end technologies and best practices  
-- 🎯 Life Hack: "Clean code, clear design, collaborative teamwork"  
-- ⚡ Fun fact: I love turning designs into pixel-perfect responsive web pages and working on performance optimization  
-
-</td>
-<td width="35%" valign="top">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdoYmRxczY4eDBqc3I1bXE0am1wamZwb285dmY4MTgxang2MTc1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding GIF">
-</td>
-</tr>
-</table>
-</p>
+</div>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 About Me
 
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36" /></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="26" height="16" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" width="36" height="36" /></a>
-<a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" width="36" height="36" /></a>
-<a href="https://angular.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" width="36" height="36" /></a>
-<a href="https://nuxtjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" alt="Nuxt" width="36" height="36" /></a>
-<a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="36" height="36" /></a>
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" width="36" height="36" /></a>
-<a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" width="36" height="36" /></a>
-<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="36" height="36" /></a>
-</p>
+```javascript
+const esraa = {
+    role: "Front-End Developer",
+    location: "Egypt 🇪🇬",
+    currentFocus: "Nuxt.js & Advanced Front-End Workflows",
+    collaboration: ["Backend Developers", "Testers", "UI/UX Designers"],
+    philosophy: "Clean code, clear design, collaborative teamwork",
+    passion: "Transforming designs into pixel-perfect responsive experiences"
+};
+```
+
+I'm a passionate **Front-End Developer** who thrives on creating seamless and performant web applications. I collaborate closely with cross-functional teams to bridge the gap between design and functionality, ensuring every product delivers an exceptional user experience.
+
+**What I Bring:**
+- 🎨 Pixel-perfect implementation of UI/UX designs
+- ⚡ Performance optimization and SEO best practices
+- 🤝 Seamless collaboration across development teams
+- 🔍 Attention to detail and code quality
+- 📱 Responsive and accessible web solutions
 
 ---
 
-## 🌐 Connect with Me
+## 💻 Tech Stack
 
-<p align="left">
-<a href="https://github.com/esraaabuhalawa"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/esraa-abuhalawa-115762208"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-</p>
+<div align="center">
+
+### Frontend Frameworks & Libraries
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esraaabuhalawa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esraaabuhalawa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=esraaabuhalawa&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+```typescript
+const currentStatus = {
+    learning: ['Nuxt.js advanced patterns', 'Modern front-end architecture'],
+    improving: ['Performance optimization', 'Accessibility standards'],
+    exploring: ['New CSS features', 'Component design systems'],
+    seeking: ['Exciting front-end opportunities', 'Collaborative projects']
+};
+```
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on interesting projects or discuss front-end development!
+
+**Feel free to reach out:**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraa-abuhalawa-115762208)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esr.saad123@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esraaabuhalawa)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=esraaabuhalawa&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+
+*"Building the web, one component at a time"* ✨
+
+</div>
