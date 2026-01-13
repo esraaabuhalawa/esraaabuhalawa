@@ -8,24 +8,13 @@ I work as a **Front-End Developer**, collaborating closely with **Backend Develo
 - ✉️ You can contact me at [esr.saad123@gmail.com](mailto:esr.saad123@gmail.com)  
 - 🧠 Currently exploring Nuxt.js and modern front-end workflows  
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
-<p align="left">
-<table>
-<tr>
-<td width="65%" valign="top">
-
-I'm a passionate Front-End Developer who loves converting UI/UX designs into high-quality, responsive web applications. I work closely with backend developers for **API integration**, collaborate with **testers** to ensure quality, and coordinate with **UI/UX designers** to maintain consistency in design.
-
-I enjoy learning new technologies and improving my skills in frameworks like **Nuxt, Angular, Vue**, and tools like **Tailwind, Bootstrap, and SEO optimization**.
-
-</td>
-<td width="35%" valign="top">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Coding GIF">
-</td>
-</tr>
-</table>
-</p>
+- 💻 I work as a **Front-End Developer** and collaborate closely with **Backend Developers, Testers, and UI/UX Designers** for seamless product integration  
+- 🌐 Experienced in **HTML, CSS, Sass, JavaScript, TypeScript, Angular, Vue, Nuxt, Tailwind, Bootstrap, and SEO optimization**  
+- 🚀 Always exploring modern front-end technologies and best practices  
+- 🎯 Life Hack: "Clean code, clear design, collaborative teamwork"  
+- ⚡ Fun fact: I love turning designs into pixel-perfect responsive web pages and working on performance optimization  
 
 ---
 
@@ -59,15 +48,15 @@ I enjoy learning new technologies and improving my skills in frameworks like **N
 
 <p align="left">
 <a href="https://github.com/esraaabuhalawa/angular-e-commerce">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/projects/angular.svg" width="36" height="36" alt="Angular E-commerce"> Angular E-commerce
+Angular E-commerce
 </a><br>
 
 <a href="https://github.com/esraaabuhalawa/Countries-project">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/projects/vue.svg" width="36" height="36" alt="Countries Project"> Countries Project
+Countries Project
 </a><br>
 
 <a href="https://github.com/esraaabuhalawa/Multi-step-form">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/projects/vue.svg" width="36" height="36" alt="Multi-step Form"> Multi-step Form
+Multi-step Form
 </a><br>
 
 <a href="https://github.com/esraaabuhalawa/E-commerce-vue2">
