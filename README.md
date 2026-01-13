@@ -19,9 +19,11 @@ Experienced in **HTML, CSS, Sass, JavaScript, TypeScript, Angular, Vue, Nuxt, Ta
 <tr>
 <td width="65%" valign="top">
 
-I'm a passionate Front-End Developer who loves converting UI/UX designs into high-quality, responsive web applications. I work closely with backend developers for **API integration**, collaborate with **testers** to ensure quality, and coordinate with **UI/UX designers** to maintain consistency in design.
-
-I enjoy learning new technologies and improving my skills in frameworks like **Nuxt, Angular, Vue**, and tools like **Tailwind, Bootstrap, and SEO optimization**.
+- 💻 I work as a **Front-End Developer** and collaborate closely with **Backend Developers, Testers, and UI/UX Designers** for seamless product integration  
+- 🌐 Experienced in **HTML, CSS, Sass, JavaScript, TypeScript, Angular, Vue, Nuxt, Tailwind, Bootstrap, and SEO optimization**  
+- 🚀 Always exploring modern front-end technologies and best practices  
+- 🎯 Life Hack: "Clean code, clear design, collaborative teamwork"  
+- ⚡ Fun fact: I love turning designs into pixel-perfect responsive web pages and working on performance optimization  
 
 </td>
 <td width="35%" valign="top">
