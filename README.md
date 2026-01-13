@@ -27,7 +27,7 @@ Experienced in **HTML, CSS, Sass, JavaScript, TypeScript, Angular, Vue, Nuxt, Ta
 
 </td>
 <td width="35%" valign="top">
-<img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdoYmRxczY4eDBqc3I1bXE0am1wamZwb285dmY4MTgxang2MTc1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="100%" alt="Coding GIF">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdoYmRxczY4eDBqc3I1bXE0am1wamZwb285dmY4MTgxang2MTc1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding GIF">
 </td>
 </tr>
 </table>
