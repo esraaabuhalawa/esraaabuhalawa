@@ -1,40 +1,32 @@
-# Hi there! 👋 I'm Esraa Abuhalawa  
+Reorder Sections
+Preview
+Markdown
+Copy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Esraa Abuhalawa
+========================================================================================================================================
 
-### 💻 Front-End Developer | Vue, Nuxt, Angular | Pixel-perfect UI & Performance  
+Front-End Developer | Vue, Nuxt, Angular
+----------------------------------------
 
----
+I work as a \*\*Front-End Developer\*\* and collaborate closely with \*\*Backend Developers, Testers, and UI/UX Designers\*\* for seamless product integration . Experienced in \*\*HTML, CSS, Sass, JavaScript, TypeScript, Angular, Vue, Tailwind, Bootstrap, and SEO optimization\*\*
 
-### 🛠️ Technologies & Tools I Use
+* 🌍  I'm based in Egypt
+* ✉️  You can contact me at [esr.saad123@gmail.com](mailto:esr.saad123@gmail.com)
+* 🧠  I'm currently learning Nuxt
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-FE7A15?style=for-the-badge&logo=google&logoColor=white)
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" alt="Nuxtjs" title="Nuxtjs" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
+</p>
 
----
+### Socials
 
-### 👩‍💻 About Me
+<p align="left"> <a href="https://www.github.com/esraaabuhalawa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/esraa-abuhalawa-115762208" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-- 💻 I work as a **Front-End Developer** and collaborate closely with **Backend Developers, Testers, and UI/UX Designers** for seamless product integration  
-- 🌐 Experienced in **HTML, CSS, Sass, JavaScript, TypeScript, Angular, Vue, Nuxt, Tailwind, Bootstrap, and SEO optimization**  
-- 🚀 Always exploring modern front-end technologies and best practices  
-- 🎯 Life Hack: "Clean code, clear design, collaborative teamwork"  
-- ⚡ Fun fact: I love turning designs into pixel-perfect responsive web pages and working on performance optimization  
+<b>Top Repositories</b>
 
----
+<div width="100%" align="center"><a href="https://github.com/esraaabuhalawa/https://github.com/esraaabuhalawa/angular-e-commerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=esraaabuhalawa&repo=https://github.com/esraaabuhalawa/angular-e-commerce&title_color=10b981&text_color=ffffff&icon_color=0f172a&bg_color=7f1d1d&hide_border=true&locale=en" /></a><a href="https://github.com/esraaabuhalawa/https://github.com/esraaabuhalawa/Countries-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=esraaabuhalawa&repo=https://github.com/esraaabuhalawa/Countries-project&title_color=10b981&text_color=ffffff&icon_color=0f172a&bg_color=7f1d1d&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### ❤️ Connect with Me
+<br /><br /><br /><br /><br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraa-abuhalawa/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-
-
+<div width="100%" align="center"><a href="https://github.com/esraaabuhalawa/https://github.com/esraaabuhalawa/Multi-step-form" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=esraaabuhalawa&repo=https://github.com/esraaabuhalawa/Multi-step-form&title_color=10b981&text_color=ffffff&icon_color=0f172a&bg_color=7f1d1d&hide_border=true&locale=en" /></a><a href="https://github.com/esraaabuhalawa/https://github.com/esraaabuhalawa/E-commerce-vue2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=esraaabuhalawa&repo=https://github.com/esraaabuhalawa/E-commerce-vue2&title_color=10b981&text_color=ffffff&icon_color=0f172a&bg_color=7f1d1d&hide_border=true&locale=en" /></a></div>
