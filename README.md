@@ -58,25 +58,3 @@ Experienced in **HTML, CSS, Sass, JavaScript, TypeScript, Angular, Vue, Nuxt, Ta
 <a href="https://github.com/esraaabuhalawa"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/esraa-abuhalawa-115762208"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
-
----
-
-## 🔥 Projects
-
-<p align="left">
-<a href="https://github.com/esraaabuhalawa/angular-e-commerce">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular E-commerce" width="36" height="36" />Angular E-commerce
-</a><br>
-
-<a href="https://github.com/esraaabuhalawa/Countries-project">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Countries Project" width="36" height="36" />Countries Project
-</a><br>
-
-<a href="https://github.com/esraaabuhalawa/Multi-step-form">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Multi-step Form" width="36" height="36" /> Multi-step Form
-</a><br>
-
-<a href="https://github.com/esraaabuhalawa/E-commerce-vue2">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="E-commerce Vue2" width="36" height="36" /> E-commerce Project (vue)
-</a>
-</p>
