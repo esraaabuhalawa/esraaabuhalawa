@@ -4,8 +4,7 @@
 
 ### 💻 Front-End Developer | Vue • Nuxt • Angular
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500px" alt="Coding Animation">
-
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdoYmRxczY4eDBqc3I1bXE0am1wamZwb285dmY4MTgxang2MTc1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" alt="Coding Animation">
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraa-abuhalawa-115762208)
